@@ -4,9 +4,9 @@
 
 ## Why?
 
- - Some.
- - Various.
- - Reasons.
+ - Find the end user's project.
+ - Useful to find where developer projects [might live](https://github.com/sholladay/code-dir).
+ - Keeps you resilient to filesystem changes.
 
 ## Install
 
